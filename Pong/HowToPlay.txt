@@ -1,0 +1,6 @@
+To move through the tile screen, 
+	- the 'arrow' keys can be used to go up and down
+	- 'enter' key to click the buttons
+	- 'esc' key to go back into a previous screen
+	- multiplayer mode can be locked and unlocked
+	- all of the instructions can be found in the application

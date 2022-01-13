@@ -1,0 +1,5 @@
+To open the debug file, 
+	- go into Pong/bin/Debug/Pong.exe (188KB) or  
+	- open the visual studio file in the first folder titled Pong (1KB) and run it
+The code can also be accessed in the Pong Visual studio file.
+The program used is Visual Basic 2010 Express.
